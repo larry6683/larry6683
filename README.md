@@ -12,7 +12,7 @@ MS Data Science @ University of Colorado Boulder
 </p>
 
 <p align="center">
-📍 Boulder, Colorado (Open to Relocate)
+📍 Boulder, Colorado
 </p>
 
 ---
@@ -27,14 +27,6 @@ My work spans **healthcare analytics, marketing intelligence, geospatial analysi
 ---
 
 ## 🎓 Education
-
-**University of Colorado Boulder**  
-**Master of Science in Data Science** (Aug 2024 – May 2026)  
-GPA: **3.75 / 4.00**
-
-**Delhi Technological University**  
-**Bachelor of Technology in Software Engineering** (Aug 2020 – Jun 2024)  
-GPA: **3.70 / 4.00**
 
 **Relevant Coursework:**  
 Machine Learning, Data Mining, Big Data Architecture, Information Visualization,  
@@ -88,31 +80,6 @@ Geographic Information Systems, Statistics & Probability, Data Ethics
 
 ---
 
-## 💼 Work Experience
-
-### Data Analyst Intern – Marketing  
-**DMEConnected | Atlanta, USA**  
-*May 2025 – Aug 2025*
-
-- Analyzed **10,000+ patient search requests** by integrating EHR data using Python, Pandas, and SQL, improving sales by **40%**
-- Integrated marketing and sales data from LinkedIn Sales Navigator, Apollo, and HubSpot, increasing lead targeting efficiency by **25%**
-- Built automated Python-based web scraping to optimize competitive pricing for new product launches
-- Designed **interactive Power BI dashboards** and conducted geographic analysis using GA4, increasing conversions by **18%**
-- Ensured **HIPAA compliance** while handling PHI in a B2B healthcare environment
-
----
-
-### Research Assistant – Medical Diagnosis  
-**Delhi Technological University | New Delhi, India**  
-*Aug 2023 – May 2024*
-
-- Processed **5,000+ medical images** using Python, OpenCV, and NumPy for MRI-based monkeypox detection
-- Achieved **97% classification accuracy** through deep learning model evaluation and preprocessing
-- Reduced false negatives by **15%** via comparative architecture analysis
-- Co-authored and published research in **Scopus-indexed IEEE conferences**
-
----
-
 ## 🚀 Projects
 
 ### 📊 Business Registrations Analytics Dashboard  
@@ -141,19 +108,14 @@ Geographic Information Systems, Statistics & Probability, Data Ethics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=larry6683&show_icons=true&theme=radical" />
-  <br><br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larry6683&layout=compact&theme=radical" />
-  <br><br>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=larry6683&theme=dark" />
 </p>
 
 ---
 
-## 🧮 Competitive Programming
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/larry6683?theme=dark,unicorn)
-
----
 
 ## 🌐 Connect With Me
 
