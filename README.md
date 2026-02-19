@@ -34,73 +34,11 @@ Geographic Information Systems, Statistics & Probability, Data Ethics
 
 ---
 
-## 🧠 Technical Skills
-
-### 📊 Data Analysis & Visualization
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Feature Engineering
-- Hypothesis Testing & A/B Testing
-- Data Storytelling & KPI Dashboards
-
-**Tools:**  
-`Python` • `SQL` • `Excel` • `Power BI` • `Tableau` • `Matplotlib` • `Seaborn` • `Plotly`
-
----
-
-### 🤖 Machine Learning & AI
-- Supervised & Unsupervised Learning
-- Model Evaluation & Optimization
-- Deep Learning & Computer Vision
-- Statistical Modeling
-
-**Libraries & Frameworks:**  
-`Scikit-learn` • `TensorFlow` • `Keras` • `PyTorch` • `OpenCV`
-
----
-
-### 🏗️ Data Engineering & Big Data
-- ETL Pipelines
-- Data Warehousing & Integration
-- Event Tracking & Funnel Analytics
-- Distributed & Cloud-Based Systems
-
-**Stack:**  
-`PySpark` • `Hadoop` • `Kafka` • `Docker` • `Kubernetes`  
-`AWS (EC2, S3, Cognito)` • `Google Cloud Storage`
-
----
-
-### 🗺️ Geospatial & Analytics Platforms
-- Spatial Data Analysis
-- Geographic Visualization
-- User Behavior & Web Analytics
-
-**Tools:**  
-`ArcGIS` • `PostGIS` • `GA4 Analytics`
-
----
-
 ## 🚀 Projects
 
-### 📊 Business Registrations Analytics Dashboard  
-**Capstone Project – UC Boulder & AasnTe**
+- 📊 Business Registrations Analytics Dashboard  **Capstone Project – UC Boulder & AasnTe**
 
-- Rebuilt an end-to-end business registration analytics pipeline covering event instrumentation, session tracking, and funnel analysis
-- Identified onboarding friction points, improving completion rates by **22%**
-- Implemented UUID-based session tracking across **1,000+ user sessions**
-- Delivered KPI dashboards and CSV outputs compatible with Excel and Tableau, reducing reporting time by **35%**
-
-**Tech:** SQL, Python, AWS Cognito
-
----
-
-### 🌱 Crop Recommendation System (Machine Learning)
-
-- Built ML models to recommend crops based on soil nutrients (N, P, K, pH) and climate data
-- Trained and evaluated Random Forest, Decision Tree, and XGBoost models achieving **98% accuracy**
-- Defined GIS integration roadmap for region-wise crop suitability and spatial visualization
-
-**Tech:** Python, Scikit-learn, EDA, GIS
+- 🌱 Crop Recommendation System (Machine Learning)
 
 ---
 
