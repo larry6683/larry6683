@@ -1,147 +1,97 @@
-## Hi there 👋
-
-<p align="center">
-  <img src="https://github.com/greyhatguy007/resources/blob/main/Intro.gif" alt="Hi, I'm Sujith Battu" width="500"/>
-</p>
-
-<h1 align="center"><b>I'm Sujith Battu</b></h1>
-
-<p align="center">
-<b>Data Analyst • Data Engineer • Aspiring Data Scientist</b><br>
-I turn raw data into insights, pipelines, and intelligent systems.
-</p>
+# Sujith Battu  
+📍 Boulder, CO (Open to Relocate)  
+📧 battusujith2525@gmail.com | 📞 720-869-0684  
+🔗 LinkedIn: https://www.linkedin.com/in/battu-sujith/  
+💻 GitHub: https://github.com/larry6683  
+🌐 Portfolio: https://larry6683.github.io/portfolio-build/
 
 ---
 
-## 👨‍💻 About Me
-
-I am a **data-focused professional** with strong foundations in analytics, machine learning, and data engineering.  
-My background also includes system-level and security-oriented thinking, which helps me design **robust, scalable, and reliable data solutions**.
-
-> **“Knowledge is Open-Source, and growth comes from sharing it.”**
+## SUMMARY
+Data Science graduate student with hands-on experience in **data analysis, machine learning, and analytics engineering**.  
+Proven ability to turn complex datasets into **actionable business insights**, build **scalable data workflows**, and deliver **decision-ready dashboards**.
 
 ---
 
-## 🎯 Career Interests
+## EDUCATION
 
-Actively seeking opportunities in:
+**University of Colorado Boulder**  
+*M.S. in Data Science* — GPA: **3.75 / 4.00**  
+Aug 2024 – May 2026  
 
-- 📊 Data Analyst  
-- 🏗️ Data Engineer  
-- 🧠 Data Scientist (Entry / Associate)  
-- 🤖 Machine Learning Engineer (Junior)  
+**Delhi Technological University**  
+*B.Tech in Software Engineering* — GPA: **3.70 / 4.00**  
+Aug 2020 – Jun 2024  
 
-**Domains of Interest:** Tech • FinTech • AI/ML • SaaS • Analytics Platforms
+**Relevant Coursework:**  
+Machine Learning, Data Mining, Big Data Architecture, Statistics & Probability, Data Visualization, Data Ethics
 
 ---
 
-## 🧠 Technical Skills
+## TECHNICAL SKILLS
 
-### 📊 Data Analysis & Visualization
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Feature Engineering
-- Statistical Analysis
-- Dashboarding & Reporting
+**Programming & Querying:**  
+Python, SQL, R  
+
+**Data & Analytics:**  
+Pandas, NumPy, Scikit-learn, Power BI, Tableau, Excel, Matplotlib, Seaborn  
+
+**Data Engineering:**  
+ETL Pipelines, PySpark, Hadoop, Kafka, REST APIs  
+
+**Databases & Cloud:**  
+MySQL, PostgreSQL, MongoDB, AWS (S3, EC2), Google Cloud Storage  
 
 **Tools:**  
-`Pandas` • `NumPy` • `SQL (MySQL, MSSQL)` • `Excel` • `Matplotlib` • `Seaborn`
+Git, Docker, Linux CLI, Jupyter Notebook
 
 ---
 
-### 🤖 Machine Learning & AI
-- Supervised & Unsupervised Learning
-- Model Evaluation & Optimization
-- Deep Learning Fundamentals
-- Computer Vision Basics
+## EXPERIENCE
 
-**Frameworks:**  
-`Scikit-learn` • `TensorFlow` • `Keras` • `PyTorch` • `OpenCV`
+### Data Analyst Intern — Marketing  
+**DMEConnected | Atlanta, USA**  
+*May 2025 – Aug 2025*
 
----
-
-### 🏗️ Data Engineering & Automation
-- ETL Pipelines
-- Data Extraction (APIs, Web Scraping)
-- Workflow Automation
-- Linux-based Development
-
-**Stack:**  
-`Python` • `SQL` • `Linux` • `Shell Scripting` • `Selenium`
+- Analyzed **10,000+ patient search records** using Python and SQL, identifying high-demand products and driving **40% sales growth**
+- Integrated marketing and sales data to segment high-value leads, improving outreach efficiency by **25%**
+- Built **automated pricing analysis pipelines** to support competitive market entry for new products
+- Designed **Power BI dashboards** and performed GA4 geographic analysis, increasing conversions by **18%**
+- Maintained **HIPAA-compliant data workflows** with full audit readiness
 
 ---
 
-## 💻 Programming Languages
+### Research Assistant — Medical Diagnosis  
+**Delhi Technological University | New Delhi, India**  
+*Aug 2023 – May 2024*
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash)
-
----
-
-## 🛠️ Tools & Platforms
-
-### IDEs & Editors
-- Visual Studio Code  
-- PyCharm  
-- IntelliJ IDEA  
-- Jupyter Notebook  
-- Sublime Text  
-
-### Frameworks & Environments
-- Anaconda  
-- Node.js  
-- OpenCV  
+- Processed **5,000+ medical images** using Python, OpenCV, and NumPy for disease detection research
+- Evaluated deep learning models, reducing false negatives by **15%**
+- Co-authored research published in **IEEE Scopus-indexed conferences**
 
 ---
 
-## 📈 GitHub Analytics
+## PROJECTS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larry6683&show_icons=true&theme=radical" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larry6683&layout=compact&theme=radical" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=larry6683&theme=dark" />
-</p>
+### Business Registrations Analytics Dashboard  
+*SQL, Python, AWS*
 
----
-
-## 🧮 Competitive Programming
-
-### LeetCode
-![Leetcode Stats](https://leetcard.jacoblin.cool/larry6683?theme=dark,unicorn)
+- Built an end-to-end analytics pipeline to track user funnels and KPIs across **1,000+ sessions**
+- Identified onboarding friction points, improving completion rates by **22%**
+- Reduced manual reporting time by **35%** through automated exports and dashboards
 
 ---
 
-## 📊 Contribution Activity
+### Crop Recommendation System  
+*Machine Learning*
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=larry6683&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🖥️ Development Setup
-
-- 💻 HP Laptop  
-- ⚙️ Intel Core i5 (9th Gen)  
-- 🎮 NVIDIA GTX 1050 Ti  
+- Developed ML models using soil and climate data to predict optimal crops
+- Achieved **98% accuracy** using Random Forest and XGBoost
+- Designed GIS-ready architecture for future geospatial analysis
 
 ---
 
-## 🌐 Connect With Me
+## ADDITIONAL
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ritvik-prasad-608176242">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-<a href="https://stackoverflow.com/users/18259104/ritvik-prasad">
-  <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow">
-</a>
-</p>
-
-📧 **Email:** mritvikprasad@gmail.com
-
----
-
-⭐ If you like my work, feel free to explore my repositories and connect!
+- Strong foundation in **statistics, experimentation, and data storytelling**
+- Comfortable working with **cross-functional business and engineering teams**
