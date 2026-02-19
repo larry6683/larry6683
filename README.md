@@ -4,8 +4,6 @@
   <img src="My_intro_pic.png" alt="Hi, I'm Sujith Battu" width="500"/>
 </p>
 
-<h1 align="center"><b>Sujith Battu</b></h1>
-
 <p align="center">
 <b>Data Analyst • Data Engineer • Data Scientist</b><br>
 MS Data Science @ University of Colorado Boulder
