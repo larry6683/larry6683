@@ -45,10 +45,7 @@ Geographic Information Systems, Statistics & Probability, Data Ethics
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larry6683&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larry6683&layout=compact&theme=radical" />
-  <br>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=larry6683&theme=dark" />
 </p>
 
