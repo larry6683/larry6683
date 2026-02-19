@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/larry6683/Intro_pic.png" alt="Hi, I'm Sujith Battu" width="500"/>
+  <img src="https://github.com/larry6683/main/Intro_pic.png" alt="Hi, I'm Sujith Battu" width="500"/>
 </p>
 
 <h1 align="center"><b>Sujith Battu</b></h1>
