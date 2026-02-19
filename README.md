@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <p align="center">
   <img src="My_intro_pic.png" alt="Hi, I'm Sujith Battu" width="500"/>
