@@ -41,10 +41,7 @@ Geographic Information Systems, Statistics & Probability, Data Ethics
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=larry6683)](https://git.io/streak-stats)
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=larry6683" alt="GitHub Streak" /></a>
 
 ---
 
