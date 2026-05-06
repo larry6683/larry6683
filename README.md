@@ -33,7 +33,7 @@ Geographic Information Systems, Statistics & Probability, Data Ethics
 
 ## 🚀 Projects
 
-- 📊 Business Registrations Analytics Dashboard  **Capstone Project – UC Boulder & AasnTe**
+- 📊 Registration Funnel Analytics Dashboard  **Capstone Project – UC Boulder & AasnTe**
 
 - 🌱 Crop Recommendation System (Machine Learning)
 
